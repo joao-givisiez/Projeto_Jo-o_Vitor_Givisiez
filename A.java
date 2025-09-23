@@ -33,4 +33,12 @@ public class A {
        
         System.out.println("Método MA2 executado.");
     }
+
+    
+    // NOVO MÉTODO ADICIONADO
+    public void MA3() {
+        // Imprime a string solicitada na tela
+        System.out.println("Alteração a classe A partir do clone"); 
+    }
+
 }
