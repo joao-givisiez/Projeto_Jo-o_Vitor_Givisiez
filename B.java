@@ -33,4 +33,10 @@ public class B {
     
         System.out.println("Método MB2 executado.");
     }
+
+     public void MB3() {
+        // Imprime o nome do método na tela
+        System.out.println("Método MB3 executado."); 
+    }
+
 }

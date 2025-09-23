@@ -34,4 +34,9 @@ public class C {
         // Imprime o nome do método na tela
         System.out.println("Método MC2 executado."); 
     }
+
+    public void MC3() {
+        // Imprime o nome do método na tela
+        System.out.println("Método MC3 executado.");
+    }
 }
