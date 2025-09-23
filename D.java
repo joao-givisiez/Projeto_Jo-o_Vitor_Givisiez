@@ -33,5 +33,8 @@ public class D {
     public void MD2() { // [cite: 74]
         System.out.println("Executando método MD2 da classe D.");
     }
+    public void MD4() {
+    System.out.println("Executando método MD4.");
+}
     
 }
