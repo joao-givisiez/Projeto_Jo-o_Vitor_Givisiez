@@ -1,9 +1,7 @@
-
 public class A {
  
     private int A1;
     private float A2;
-
    
     public A() {
     }
@@ -34,11 +32,14 @@ public class A {
         System.out.println("Método MA2 executado.");
     }
 
-    
-    // NOVO MÉTODO ADICIONADO
     public void MA3() {
         // Imprime a string solicitada na tela
         System.out.println("Alteração a classe A partir do clone"); 
     }
 
-}
+    // NOVO MÉTODO ADICIONADO FORK
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
+
+}   
